@@ -1,0 +1,115 @@
+{
+  "name": "gaming time",
+  "game_version": null,
+  "created_by": "sts2-mod-manager",
+  "mods": [
+    {
+      "name": "Act 4: Final Ascent",
+      "version": "0.1.2e",
+      "source": null,
+      "hash": "8b47f856cf3ccfc31a2675c229db81d68481e05b4c3b2242cdb81054896e853d",
+      "files": [
+        "Act4FinalAscent\\Act4FinalAscent.dll",
+        "Act4FinalAscent\\Act4FinalAscent.json",
+        "Act4FinalAscent\\Act4FinalAscent.pck"
+      ],
+      "folder_name": "Act4FinalAscent",
+      "mod_id": "Act4FinalAscent",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/jjred258/sts2mm-profiles/main/mods/Act_4__Final_Ascent_0.1.2e.zip"
+    },
+    {
+      "name": "BaseLib",
+      "version": "v3.1.2",
+      "source": null,
+      "hash": "e8ec6dda30f0e7c67858e42d47c234f0ace2eea8a41b9857c857f9f87f93180c",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/jjred258/sts2mm-profiles/main/mods/BaseLib_3.1.2.zip"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.2",
+      "source": null,
+      "hash": "6457cc7006919376b4f435777b339ff9a7286f91dafc0a696c6215365d14caa9",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/jjred258/sts2mm-profiles/main/mods/BetterSpire2_1.82.2.zip"
+    },
+    {
+      "name": "RemoveMultiplayerPlayerLimit",
+      "version": "0.1.6-test",
+      "source": null,
+      "hash": "f799d6cc794e7bbf419b19536c7eded3616c2b4f284a1a28b65df7f4e9c525fd",
+      "files": [
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\config.ini",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+      ],
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "mod_id": "RemoveMultiplayerPlayerLimit",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/jjred258/sts2mm-profiles/main/mods/RemoveMultiplayerPlayerLimit_0.1.6-test.zip"
+    },
+    {
+      "name": "Sell mod",
+      "version": "v0.0.18",
+      "source": null,
+      "hash": "243ad192fa37e0f582bf9b6a4669597ad283b3ead558cb8d87206eb727aa39a6",
+      "files": [
+        "SellMod\\BasicMod.dll",
+        "SellMod\\BasicMod.json",
+        "SellMod\\BasicMod.pck",
+        "SellMod\\Patchnote v0.0.18.txt"
+      ],
+      "folder_name": "SellMod",
+      "mod_id": "BasicMod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/jjred258/sts2mm-profiles/main/mods/Sell_mod_0.0.18.zip"
+    },
+    {
+      "name": "Watcher",
+      "version": "0.5.16",
+      "source": null,
+      "hash": "3147a5eefd08ad37399bf516b027260dadafb4f8a3fedae94a68333182518a03",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/jjred258/sts2mm-profiles/main/mods/Watcher_0.5.16.zip"
+    }
+  ],
+  "created_at": "2026-05-12T14:04:05.664368800Z",
+  "updated_at": "2026-05-12T14:04:05.664368800Z"
+}
